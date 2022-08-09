@@ -1,8 +1,8 @@
 # Dependencies
-To install nasm and qemu 
-sudo apt update
-sudo apt install nasm
-sudo apt-get install qemu-system
+To install nasm and qemu \n
+sudo apt update \n
+sudo apt install nasm \n
+sudo apt-get install qemu-system \n
 
 
 # Create a binary file
